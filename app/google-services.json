@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823463258539",
+    "project_id": "drosztok",
+    "storage_bucket": "drosztok.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823463258539:android:fe931ba0050ee1719e4aee",
+        "android_client_info": {
+          "package_name": "hu.drosztok.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4UAkdwbQ09nG4ejmD7Qo9t8RKKQnhkus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

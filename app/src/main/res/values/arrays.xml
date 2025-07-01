@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="vehicle_types_array">
+        <item>Válassz típust...</item>
+        <item>Taxi</item>
+        <item>Kombi Taxi</item>
+        <item>VIP</item>
+        <item>VIP Kombi</item>
+        <item>V-Osztály</item>
+    </string-array>
+</resources>

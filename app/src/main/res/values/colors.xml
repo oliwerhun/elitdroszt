@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="theme_primary">#475569</color>
+    <color name="theme_on_primary">#FFFFFFFF</color>
+    <color name="theme_background">#F1F5F9</color>
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+
+    <color name="card_background">#FFFFFF</color>
+    <color name="button_green">#10B981</color>
+    <color name="button_orange">#F59E0B</color>
+    <color name="button_red">#EF4444</color>
+    <color name="button_blue">#3B82F6</color>
+    <color name="button_amber">#FBBF24</color>
+</resources>
